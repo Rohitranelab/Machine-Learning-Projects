@@ -1,5 +1,8 @@
 # Customer Churn Prediction
 
+### Live Demo
+**Try the App Here:** https://machinelearning-churn-prediction.streamlit.app/
+
 ### Project Overview:
 This project aims to predict whether a bank customer will churn (leave the bank) or not using machine learning techniques. The dataset contains customer demographic and account-related information, and the goal is to classify whether a customer will churn (1) or stay (0).
 
